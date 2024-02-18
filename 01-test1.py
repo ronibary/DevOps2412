@@ -1,7 +1,7 @@
 print("Hello world!")
 # your_name = input("enter your name: ")
 my_name = "ron"
-print(f"my name is: {my_name}")
+print(f"my name is very cool:  enjoy the day {my_name}")
 
 a = "ron"
 b = "bar yosef"
