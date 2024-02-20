@@ -4,10 +4,10 @@ my_name = "ron"
 print(f"my name is:  hello enjoy {my_name}")
 
 
-a = "roni"
+a = "ron"
 b = "bar yosef"
 
-age = 758
+age = 75
 isMaried = True
 
 '''
