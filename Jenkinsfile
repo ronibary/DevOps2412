@@ -2,7 +2,7 @@ node {
 
     stage("clone") { 
 
-        git branch: 'main', url: 'https://github.com/ronibary/DevOps2412.git' 
+        git branch: 'master', url: 'https://github.com/ronibary/DevOps2412.git' 
 
     } 
 
