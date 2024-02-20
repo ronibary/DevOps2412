@@ -6,7 +6,7 @@ print(f"my name is very cool:  enjoy the day {my_name}")
 a = "ron"
 b = "bar yosef"
 
-age = 75
+age = 758
 isMaried = True
 
 '''
